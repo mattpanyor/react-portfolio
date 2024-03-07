@@ -5,6 +5,7 @@ import About from './pages/About'
 import Skills from './pages/Skills'
 import Projects from './pages/Projects'
 import Home from './pages/Home'
+import Footer from './components/footer/Footer'
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
         <Route path='/skills' element={<Skills/>}/>
         <Route path='/projects' element={<Projects/>}/>
       </Routes>
+      <div className='h-[6rem] z-0 sm:hidden'></div>
+      <Footer/>
     </Router>
   )
 }
