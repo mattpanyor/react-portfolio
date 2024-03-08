@@ -49,24 +49,28 @@ export const SocialData = [
         name: "Discord",
         image: "/socials/discord.svg",
         width: 80,
-        height: 80
+        height: 80,
+        url: 'https://github.com/mattpanyor'
     },
     {
         name: "Instagram",
         image: "/socials/instagram.svg",
         width: 80,
-        height: 80
+        height: 80,
+        url: 'https://instagram.com/mattpanyor'
     },
     {
         name: "GitHub",
         image: "/socials/#TODO",
         width: 80,
-        height: 80
+        height: 80,
+        url: 'https://github.com/mattpanyor/'
     },
     {
         name: "Linked In",
         image: "/socials/#TODO",
         width: 80,
-        height: 80
+        height: 80,
+        url: 'https://linkedin.com/in/mattpanyor/'
     },
 ]
