@@ -12,7 +12,7 @@ function Navbar(){
                     <div className="flex flex-wrap px-3 w-full">
                         <div className="px-10 w-full flex font-mon uppercase items-center justify-between">
                             <div className="flex flex-row">
-                                <img src="/src/assets/react.svg" className="h-fit"></img>
+                                <img src="/skills/react.svg" className="h-fit"></img>
                                 <Link to={'/'} className="text-xl text-neutral-200 px-4">
                                     <span>Matt Panyor</span>
                                 </Link>
